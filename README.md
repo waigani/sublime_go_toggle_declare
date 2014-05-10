@@ -4,7 +4,7 @@ sublime_go_toggle_declare
 GoToggleDeclare toggles the short variable declaration ":=" and the assignment operator "=" in in Go programming language.
 
 Usage
-_____
+-----
 
 Given the following line of code:
 
@@ -18,7 +18,7 @@ GoToggleDeclare will replace `=` with `:=`, press `shift+tab` again and it will 
 
 
 Install
-_______
+-------
 
 1. Install Sublime Package Control (if you haven't done so already) from http://wbond.net/sublime_packages/package_control. Be sure to restart ST to complete the installation.
 
