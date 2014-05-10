@@ -14,7 +14,7 @@ Place your cursor on the line and press `shift+tab`. You'll get:
 
     sum := func(a, b int) int { return a+b } (3, 4)
   
-GoToggleDeclare will replace `=` with `:=`, press `shift+tab` again and it will change it back.
+GoToggleDeclare replaced `=` with `:=`, press `shift+tab` again and it will change it back.
 
 
 Install
