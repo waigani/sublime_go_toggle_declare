@@ -8,11 +8,11 @@ Usage
 
 Given the following line of code:
 
-  sum = func(a, b int) int { return a+b } (3, 4)
+    sum = func(a, b int) int { return a+b } (3, 4)
 
 Place your cursor on the line and press `shift+tab`:
 
-  sum := func(a, b int) int { return a+b } (3, 4)
+    sum := func(a, b int) int { return a+b } (3, 4)
   
 GoToggleDeclare will replace `=` with `:=`, press `shift+tab` again and it will change it back.
 
