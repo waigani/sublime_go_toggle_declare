@@ -1,5 +1,5 @@
-sublime_go_toggle_declare
-=========================
+GoToggleDeclare
+===============
 
 GoToggleDeclare toggles the short variable declaration ":=" and the assignment operator "=" in in Go programming language.
 
