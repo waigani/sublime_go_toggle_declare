@@ -1,7 +1,7 @@
 GoToggleDeclare
 ===============
 
-GoToggleDeclare toggles the short variable declaration ":=" and the assignment operator "=" in in Go programming language.
+GoToggleDeclare is a Golang plugin for Sublime Text which toggles the short variable declaration ":=" and the assignment operator "=".
 
 Usage
 -----
