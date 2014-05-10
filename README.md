@@ -10,7 +10,7 @@ Given the following line of code:
 
     sum = func(a, b int) int { return a+b } (3, 4)
 
-Place your cursor on the line and press `shift+tab`:
+Place your cursor on the line and press `shift+tab`. You'll get:
 
     sum := func(a, b int) int { return a+b } (3, 4)
   
