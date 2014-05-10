@@ -27,10 +27,11 @@ Install
 
 
 Default key binding:
-	[
-	    { 
-	        "keys": ["shift+tab"], "command": "go_toggle_declare"
-	    }
-	]
+
+    [
+        { 
+            "keys": ["shift+tab"], "command": "go_toggle_declare"
+        }
+    ]
 	
 You can set your own keybinding by copying the above into `Preferences > Keybindings - User` and replacing `shift+tab` with your preferred key(s).
