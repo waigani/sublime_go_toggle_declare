@@ -3,6 +3,9 @@ GoToggleDeclare
 
 GoToggleDeclare is a Golang plugin for Sublime Text which toggles the short variable declaration `:=` and the assignment operator `=`.
 
+Please checkout [GoAutoDeclare](https://github.com/waigani/GoAutoDeclare) for automatic correction on save.
+
+
 Usage
 -----
 
@@ -25,7 +28,6 @@ Install
 2. Bring up the command palette (default `ctrl+shift+p` or `cmd+shift+p`) and start typing `Package Control: Install Package` then press return or click on that option to activate it. You will be presented with a new Quick Panel with the list of available packages. Type GoToggleDeclare and press return or on its entry to install GoToggleDeclare. If there is no entry for GoToggleDeclare, you most likely already have it installed.
 
 
-
 Default key binding:
 
     [
@@ -35,3 +37,9 @@ Default key binding:
     ]
 	
 You can set your own keybinding by copying the above into `Preferences > Keybindings - User` and replacing `shift+tab` with your preferred key(s).
+
+
+License
+=======
+
+GoAutoDeclare is released under the MIT license. See [LICENSE.md](LICENSE.md)

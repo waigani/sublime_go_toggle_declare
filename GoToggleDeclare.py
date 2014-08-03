@@ -12,4 +12,5 @@ class GoToggleDeclareCommand(sublime_plugin.TextCommand):
                 	lineContents = lineContents.replace(":=","=", 1)
                 else:
                 	lineContents = lineContents.replace("=", ":=", 1)
-                self.view.replace(edit, line, lineContents) 
+                self.view.replace(edit, line, lineContents)
+                
